@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using DataAccessLayer.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Matrimony
 {
@@ -29,6 +31,9 @@ namespace Matrimony
         {
             // Add framework services.
             services.AddMvc();
+
+            var connection = @"Server=JABER\SQLEXPRESS;Database=Matrimony;Trusted_Connection=True;";
+            services.AddDbContext<MatrimonyContext>(options => options.UseSqlServer(connection));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

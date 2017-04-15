@@ -7,3 +7,5 @@ C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\obj\Debug\netc
 C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\obj\Debug\netcoreapp1.1\Matrimony.AssemblyInfo.cs
 C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\obj\Debug\netcoreapp1.1\Matrimony.dll
 C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\obj\Debug\netcoreapp1.1\Matrimony.pdb
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\bin\Debug\netcoreapp1.1\DataAccessLayer.dll
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\bin\Debug\netcoreapp1.1\DataAccessLayer.pdb
