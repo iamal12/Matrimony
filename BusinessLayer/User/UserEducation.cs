@@ -20,6 +20,6 @@ namespace DataAccessLayer.User
         [Required]
         public string Grade { get; set; }
         [Required]
-        string Board { get; set; }
+        public string Board { get; set; }
     }
 }
