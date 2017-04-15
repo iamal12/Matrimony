@@ -1,0 +1,7 @@
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\BusinessLayer\bin\Debug\netcoreapp1.1\DataAccessLayer.deps.json
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\BusinessLayer\bin\Debug\netcoreapp1.1\DataAccessLayer.dll
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\BusinessLayer\obj\Debug\netcoreapp1.1\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\BusinessLayer\obj\Debug\netcoreapp1.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\BusinessLayer\bin\Debug\netcoreapp1.1\DataAccessLayer.pdb
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\BusinessLayer\obj\Debug\netcoreapp1.1\DataAccessLayer.dll
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\BusinessLayer\obj\Debug\netcoreapp1.1\DataAccessLayer.pdb
