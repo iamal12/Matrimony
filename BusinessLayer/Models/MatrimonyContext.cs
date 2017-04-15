@@ -1,12 +1,13 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using DataAccessLayer.User;
 
 namespace DataAccessLayer.Models
 {
     public partial class MatrimonyContext : DbContext
     {
-        public virtual DbSet<TestTable> TestTable { get; set; }
+        public virtual DbSet<Users> TestTable { get; set; }
 
         public MatrimonyContext(DbContextOptions<MatrimonyContext> options)
             : base(options)
@@ -16,10 +17,6 @@ namespace DataAccessLayer.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<TestTable>(entity =>
-            {
-                entity.Property(e => e.Name).IsRequired();
-            });
         }
     }
 }
