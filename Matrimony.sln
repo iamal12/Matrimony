@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrimony", "Matrimony\Matrimony.csproj", "{EA06DD28-6AF0-4BF9-AA61-3F21B149AA74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{2E46C6B5-C613-43B9-86A7-CE776CA22FBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EA06DD28-6AF0-4BF9-AA61-3F21B149AA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA06DD28-6AF0-4BF9-AA61-3F21B149AA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA06DD28-6AF0-4BF9-AA61-3F21B149AA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E46C6B5-C613-43B9-86A7-CE776CA22FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E46C6B5-C613-43B9-86A7-CE776CA22FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E46C6B5-C613-43B9-86A7-CE776CA22FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E46C6B5-C613-43B9-86A7-CE776CA22FBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
