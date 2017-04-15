@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrimony", "Matrimony\Matrimony.csproj", "{EA06DD28-6AF0-4BF9-AA61-3F21B149AA74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{2E46C6B5-C613-43B9-86A7-CE776CA22FBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "BusinessLayer\DataAccessLayer.csproj", "{2E46C6B5-C613-43B9-86A7-CE776CA22FBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

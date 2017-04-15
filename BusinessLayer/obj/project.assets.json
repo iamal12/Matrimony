@@ -7410,9 +7410,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mhsjaber\\Desktop\\Application\\Project\\Matrimony\\BusinessLayer\\BusinessLayer.csproj",
-      "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\mhsjaber\\Desktop\\Application\\Project\\Matrimony\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\mhsjaber\\Desktop\\Application\\Project\\Matrimony\\BusinessLayer\\DataAccessLayer.csproj",
+      "projectName": "DataAccessLayer",
+      "projectPath": "C:\\Users\\mhsjaber\\Desktop\\Application\\Project\\Matrimony\\BusinessLayer\\DataAccessLayer.csproj",
       "outputPath": "C:\\Users\\mhsjaber\\Desktop\\Application\\Project\\Matrimony\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
