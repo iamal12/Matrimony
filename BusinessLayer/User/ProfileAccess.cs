@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DataAccessLayer.User
 {
-    public class AccessRequest
+    public class ProfileAccess
     {
         [Required]
         public Guid ID { get; set; }
@@ -16,7 +16,7 @@ namespace DataAccessLayer.User
         [Required]
         public Guid RequestToID { get; set; }
         [Required]
-        public AccessRequestStatus Status { get; set; }
+        public AccessStatus Status { get; set; }
         [Required]
         public DateTime CreatedOn { get; set; }
         [Required]

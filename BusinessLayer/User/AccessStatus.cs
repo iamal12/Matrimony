@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DataAccessLayer.User
 {
-    public enum AccessRequestStatus
+    public enum AccessStatus
     {
         Pending = 1,
         Approved,
