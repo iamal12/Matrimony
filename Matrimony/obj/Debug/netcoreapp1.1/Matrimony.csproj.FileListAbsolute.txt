@@ -1,0 +1,9 @@
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\bin\Debug\netcoreapp1.1\Matrimony.deps.json
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\bin\Debug\netcoreapp1.1\Matrimony.runtimeconfig.json
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\bin\Debug\netcoreapp1.1\Matrimony.runtimeconfig.dev.json
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\bin\Debug\netcoreapp1.1\Matrimony.dll
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\bin\Debug\netcoreapp1.1\Matrimony.pdb
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\obj\Debug\netcoreapp1.1\Matrimony.csprojResolveAssemblyReference.cache
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\obj\Debug\netcoreapp1.1\Matrimony.AssemblyInfo.cs
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\obj\Debug\netcoreapp1.1\Matrimony.dll
+C:\Users\mhsjaber\Desktop\Application\Project\Matrimony\Matrimony\obj\Debug\netcoreapp1.1\Matrimony.pdb
